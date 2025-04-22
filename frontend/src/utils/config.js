@@ -1,1 +1,1 @@
-export const BASE_URL = 'http://localhost:8000/api/v1'
+export const BASE_URL = "https://tours-travels-app.onrender.com/api/v1";
